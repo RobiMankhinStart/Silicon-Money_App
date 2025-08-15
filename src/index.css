@@ -2,3 +2,6 @@
 @utility container {
   margin-inline: auto;
 }
+@theme {
+  --font-manrope: "Manrope", sans-serif;
+}
